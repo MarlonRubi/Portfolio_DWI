@@ -80,3 +80,60 @@ body{
 .images:hover .me{
 	left: 45%;
 }
+
+#about-me{
+	padding: 4%;
+	font-size: medium;
+}
+
+.list-unstyled{
+	font-weight: 600;
+	font-size: large;
+	font-weight: 500;
+	font-size: x-large;
+}
+
+#service{
+	padding: 4%;
+	text-align: right;
+}
+
+#portfolio{
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+#portfolio p{
+	font-size: 40px;
+	letter-spacing: 10px;
+	color: #000000;
+}
+
+#portfolio h5{
+	font-size: 30px;
+	color: #8a8a8a;
+}
+
+#contact{
+	padding: 5%;
+}
+
+footer{
+	background-color: #212121;
+	padding: 5%;
+}
+
+footer p{
+	color: #fff;
+	text-align: center;
+}
+
+#footer-copy{
+	background-color: #000000;
+	padding: 1%;
+	text-align: center;
+}
+
+#footer-copy p{
+	color: #fff;
+}
